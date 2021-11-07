@@ -1,0 +1,17 @@
+1. Build a Convolutional Neural Network for handwritten digit classification.
+a. Print the model summary - layers used in the model and the specifications
+b. Display the validation accuracy after each epoch
+Specifications:
+- Dataset: MNIST
+- Batch size: 32
+- Epochs: 30
+- Optimizer: Adam
+- Loss: Cross Entropy Loss
+- Activation function: tanh
+2. Add pooling layers to the model, print model summary, and verify the number of parameters and
+accuracy of the model
+3. Use ReLU instead of tanh, recalculate the accuracy, and write the observations.
+4. Build a standard Artificial Neural Network (without any convolution layers) for handwritten digit
+classification.
+a. Print the model summary
+b. Display the validation accuracy on each epoch
